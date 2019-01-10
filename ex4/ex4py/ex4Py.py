@@ -1,6 +1,6 @@
 """
 *Student name: or paz
-*Student ID: 311250708
+*Student ID: *********
 *Course Exercise Group: 01
 *Exercise name: ex4Py
 """
